@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+    padding: 20px 30px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    border: 1px solid gray;
+
+}
+div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
